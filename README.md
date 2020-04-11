@@ -19,4 +19,12 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Run server data
+
+```bash
+# Fake server data
+$ json-server --watch db.json
+
+# Run server on another port
+$ PORT=3001 npm run dev
+```
