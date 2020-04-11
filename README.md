@@ -27,4 +27,7 @@ $ json-server --watch db.json
 
 # Run server on another port
 $ PORT=3001 npm run dev
+
+# For delay data
+$ json-server --watch db.json --delay 2000
 ```
