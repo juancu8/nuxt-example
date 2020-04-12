@@ -1,6 +1,13 @@
-# real-nuxt
+# See on
 
-> My rad Nuxt.js project
+Dinamic on Heroku
+
+https://shielded-atoll-99858.herokuapp.com/
+
+Or static on Netlify
+
+https://nuxt-evt-list.netlify.com/
+
 
 ## Build Setup
 
